@@ -1,0 +1,4 @@
+pod 'UIAlertView+Blocks', '~> 0.8'
+pod 'RevMob', '~> 7.4'
+pod 'RestKit', '~> 0.22'
+pod 'RKCLLocationValueTransformer', '~> 1.0'
